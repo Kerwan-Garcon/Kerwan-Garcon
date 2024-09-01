@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kerwan Garçon
 
-## 🚀 Lead Developer @ CYNA | Manager @ Implic-Action
+## 🚀 Lead Developer @ CYNA | Manager & Lead Dveloper @ Implic-Action
 #### 🎯 Owner of JUST-A-SERVICE (BETA ACCESS ONLY)
 #### 🛠 Currently Developing: STUDY-BUDDIES Learning App
 
